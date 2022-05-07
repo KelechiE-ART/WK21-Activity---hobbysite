@@ -1,0 +1,119 @@
+h2, h3, h4, h5 {
+    color: #294b9b;
+    font-family: 'Raleway Dots', cursive;
+}
+
+p {
+    color: #294b9b;
+    font-family: 'Raleway', sans-serif;
+}
+
+inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+body {
+    background-color: #ebeae0;
+}
+
+.nav a {
+    display: flex;
+    width: auto;
+    padding: 10px;
+    color: #dc99d5;
+    ;
+}
+
+.nav btn {
+    display: flex;
+    width: auto;
+    padding: 10px;
+    color: #ffc9c9;
+}
+
+.HeroPic {
+    height: 400px;
+    width: 100%;
+    background-color: rgba(41,75,155,0.7);
+    background-image: url("../Image/pexels-photo-2767689.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div.HeroPic p {
+    color: #ebeae0;
+    background-color: rgba(41,75,155,0.7);
+    text-align: center;
+}
+
+.HeroPic h1{
+    color: white;
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+    display: block;
+    font-family: 'Raleway Dots', cursive;
+    font-weight: 500;
+}
+
+.HeroPic a {
+    background-color: #dc99d5;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.cardContainer {
+    margin-bottom: 15px;
+    margin-top: 10pc;
+    flex-direction: row;
+}
+
+.Tag {
+    text-align: center;
+    display: flex;
+    font-size: larger;
+    margin-top: 15pc; 
+}
+Footer {
+    background-color: rgba(41,75,155,0.7);
+}
+
+div.row {
+    align-items: center;
+    justify-items: center;
+}
+
+div.row img {
+    padding: 10%;
+}
+
+div.row h5 {
+    background-color: #dc99d5;
+}
+
+.Welcomeimg {
+   float: left;
+}
+
+.Intro h2{
+    text-align: center;
+    display: flex;
+}
+
+.YadaYada {
+    margin-top: 5pc;
+    display: inline-block;
+}
+
+.Mailing {
+    background-image: url(../Image/pexels-photo-2767667.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+label {
+    opacity: 1;
+}
